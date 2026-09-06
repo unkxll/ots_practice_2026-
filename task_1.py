@@ -10,7 +10,7 @@ def get_system_info():
     system_info = {
         "student_name": "Валиуллов Рустам Маратович",
         "academic_group": "ИВТИИбд-13",
-        "github_link": "https://github.com/unkxll/ots_practice_2026-/tree/main"
+        "github_link": "https://github.com/unkxll"
     }
     return system_info
 
